@@ -1,0 +1,14 @@
+C:\Users\Drac\source\repos\Craps_Game\Craps_Game\bin\Debug\netcoreapp3.1\Craps_Game.exe
+C:\Users\Drac\source\repos\Craps_Game\Craps_Game\bin\Debug\netcoreapp3.1\Craps_Game.deps.json
+C:\Users\Drac\source\repos\Craps_Game\Craps_Game\bin\Debug\netcoreapp3.1\Craps_Game.runtimeconfig.json
+C:\Users\Drac\source\repos\Craps_Game\Craps_Game\bin\Debug\netcoreapp3.1\Craps_Game.runtimeconfig.dev.json
+C:\Users\Drac\source\repos\Craps_Game\Craps_Game\bin\Debug\netcoreapp3.1\Craps_Game.dll
+C:\Users\Drac\source\repos\Craps_Game\Craps_Game\bin\Debug\netcoreapp3.1\Craps_Game.pdb
+C:\Users\Drac\source\repos\Craps_Game\Craps_Game\obj\Debug\netcoreapp3.1\Craps_Game.csproj.AssemblyReference.cache
+C:\Users\Drac\source\repos\Craps_Game\Craps_Game\obj\Debug\netcoreapp3.1\Craps_Game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Drac\source\repos\Craps_Game\Craps_Game\obj\Debug\netcoreapp3.1\Craps_Game.AssemblyInfoInputs.cache
+C:\Users\Drac\source\repos\Craps_Game\Craps_Game\obj\Debug\netcoreapp3.1\Craps_Game.AssemblyInfo.cs
+C:\Users\Drac\source\repos\Craps_Game\Craps_Game\obj\Debug\netcoreapp3.1\Craps_Game.csproj.CoreCompileInputs.cache
+C:\Users\Drac\source\repos\Craps_Game\Craps_Game\obj\Debug\netcoreapp3.1\Craps_Game.dll
+C:\Users\Drac\source\repos\Craps_Game\Craps_Game\obj\Debug\netcoreapp3.1\Craps_Game.pdb
+C:\Users\Drac\source\repos\Craps_Game\Craps_Game\obj\Debug\netcoreapp3.1\Craps_Game.genruntimeconfig.cache

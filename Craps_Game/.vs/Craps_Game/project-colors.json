@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "63b1f746-de64-4fbe-927f-e1aa0369bc0b": {
+      "ProjectGuid": "63b1f746-de64-4fbe-927f-e1aa0369bc0b",
+      "DisplayName": "Craps_Game",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
